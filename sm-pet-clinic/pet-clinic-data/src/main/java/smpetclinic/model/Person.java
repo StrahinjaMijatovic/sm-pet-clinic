@@ -1,4 +1,4 @@
-package com.example.smpetclinic.model;
+package smpetclinic.model;
 
 public class Person {
 
